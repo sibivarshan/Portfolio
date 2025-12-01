@@ -279,7 +279,7 @@ export const education = [
     school: "Amrita Vishwa Vidyapeetham",
     date: "2022 - 2026",
     degree: "B.TECH Computer Science Engineering",
-    grade: "CGPA - 8.49/10",
+    grade: "CGPA - 8.55/10",
     desc: "Currently pursuing my Bachelor's degree in Computer Science Engineering, focusing on advanced computing concepts and practical applications.",
     doc: ""
   },
